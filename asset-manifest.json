@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Vardan-Marukyan/Todo-Manager.git/static/css/main.0549e401.css",
-    "main.js": "/Vardan-Marukyan/Todo-Manager.git/static/js/main.0fbc53af.js",
-    "static/js/453.59bb3b6d.chunk.js": "/Vardan-Marukyan/Todo-Manager.git/static/js/453.59bb3b6d.chunk.js",
-    "static/media/Kanit-Regular.ttf": "/Vardan-Marukyan/Todo-Manager.git/static/media/Kanit-Regular.815a5ec1c3a30120368a.ttf",
-    "static/media/Kanit-Regular.woff": "/Vardan-Marukyan/Todo-Manager.git/static/media/Kanit-Regular.51ab76c11d6a77d74460.woff",
-    "static/media/Kanit-Regular.woff2": "/Vardan-Marukyan/Todo-Manager.git/static/media/Kanit-Regular.06a54d9c2bcc20bc9860.woff2",
-    "static/media/Detective-check-footprint-dark.png": "/Vardan-Marukyan/Todo-Manager.git/static/media/Detective-check-footprint-dark.fe7f3798351c02985894.png",
-    "static/media/Detective-check-footprint-light.png": "/Vardan-Marukyan/Todo-Manager.git/static/media/Detective-check-footprint-light.9f511d8f69f1b39e244d.png",
-    "static/media/icomoon.svg?kh76l3": "/Vardan-Marukyan/Todo-Manager.git/static/media/icomoon.9b11aa471b5d34df951f.svg",
-    "static/media/icomoon.eot?kh76l3": "/Vardan-Marukyan/Todo-Manager.git/static/media/icomoon.58654c4cddcff8e566cf.eot",
-    "static/media/icomoon.woff?kh76l3": "/Vardan-Marukyan/Todo-Manager.git/static/media/icomoon.b934a89f2bc3ead38832.woff",
-    "static/media/icomoon.ttf?kh76l3": "/Vardan-Marukyan/Todo-Manager.git/static/media/icomoon.ee4b7087463688d3c3c8.ttf",
-    "index.html": "/Vardan-Marukyan/Todo-Manager.git/index.html",
-    "main.0549e401.css.map": "/Vardan-Marukyan/Todo-Manager.git/static/css/main.0549e401.css.map",
-    "main.0fbc53af.js.map": "/Vardan-Marukyan/Todo-Manager.git/static/js/main.0fbc53af.js.map",
-    "453.59bb3b6d.chunk.js.map": "/Vardan-Marukyan/Todo-Manager.git/static/js/453.59bb3b6d.chunk.js.map"
+    "main.css": "/Todo-Manager/static/css/main.15b4ccb8.css",
+    "main.js": "/Todo-Manager/static/js/main.1707eefd.js",
+    "static/js/453.59bb3b6d.chunk.js": "/Todo-Manager/static/js/453.59bb3b6d.chunk.js",
+    "static/media/Kanit-Regular.ttf": "/Todo-Manager/static/media/Kanit-Regular.815a5ec1c3a30120368a.ttf",
+    "static/media/Kanit-Regular.woff": "/Todo-Manager/static/media/Kanit-Regular.51ab76c11d6a77d74460.woff",
+    "static/media/Kanit-Regular.woff2": "/Todo-Manager/static/media/Kanit-Regular.06a54d9c2bcc20bc9860.woff2",
+    "static/media/Detective-check-footprint-dark.png": "/Todo-Manager/static/media/Detective-check-footprint-dark.fe7f3798351c02985894.png",
+    "static/media/Detective-check-footprint-light.png": "/Todo-Manager/static/media/Detective-check-footprint-light.9f511d8f69f1b39e244d.png",
+    "static/media/icomoon.svg?kh76l3": "/Todo-Manager/static/media/icomoon.9b11aa471b5d34df951f.svg",
+    "static/media/icomoon.eot?kh76l3": "/Todo-Manager/static/media/icomoon.58654c4cddcff8e566cf.eot",
+    "static/media/icomoon.woff?kh76l3": "/Todo-Manager/static/media/icomoon.b934a89f2bc3ead38832.woff",
+    "static/media/icomoon.ttf?kh76l3": "/Todo-Manager/static/media/icomoon.ee4b7087463688d3c3c8.ttf",
+    "index.html": "/Todo-Manager/index.html",
+    "main.15b4ccb8.css.map": "/Todo-Manager/static/css/main.15b4ccb8.css.map",
+    "main.1707eefd.js.map": "/Todo-Manager/static/js/main.1707eefd.js.map",
+    "453.59bb3b6d.chunk.js.map": "/Todo-Manager/static/js/453.59bb3b6d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0549e401.css",
-    "static/js/main.0fbc53af.js"
+    "static/css/main.15b4ccb8.css",
+    "static/js/main.1707eefd.js"
   ]
 }
