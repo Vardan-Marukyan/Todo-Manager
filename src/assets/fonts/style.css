@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Kanit';
+    src: local('Kanit Regular'), local('Kanit-Regular'),
+        url('Kanit-Regular.woff2') format('woff2'),
+        url('Kanit-Regular.woff') format('woff'),
+        url('Kanit-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
